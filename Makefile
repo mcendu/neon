@@ -97,6 +97,7 @@ clean_main:
 $(SKIN_NAME).osk: all
 	if [ -f $@ ]; then rm $@; fi
 	zip -q -r $@ \
+		LICENSE \
 		$(textures_sd_obj) \
 		$(textures_hd_obj) \
 		$(lazer_layout_src) \
