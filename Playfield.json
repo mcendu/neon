@@ -1,0 +1,159 @@
+{
+  "DrawableInfo": {
+    "mania": [
+      {
+        "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2024.412.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": 130.0
+        },
+        "Rotation": -90.0,
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 18,
+        "Origin": 18,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "judgement_line_thickness": 4.0,
+          "colour_bar_visibility": true,
+          "show_moving_average": true,
+          "centre_marker_style": 1,
+          "label_style": 1
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Screens.Play.HUD.ArgonAccuracyCounter, osu.Game, Version=2024.412.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0,
+          "y": 100.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 17,
+        "Origin": 18,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "wireframe_opacity": 0.0,
+          "show_label": false,
+          "accuracy_display": 0
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.412.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 12,
+        "Origin": 36,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "sprite_name": "mania-lazer-counter-score.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Screens.Play.HUD.ArgonScoreCounter, osu.Game, Version=2024.412.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -85.0,
+          "y": -32.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.4,
+          "y": 1.4
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 12,
+        "Origin": 36,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "wireframe_opacity": 0.25,
+          "show_label": false
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.412.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 12,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "sprite_name": "mania-lazer-counter-pp.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Screens.Play.HUD.ArgonPerformancePointsCounter, osu.Game, Version=2024.412.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 85.0,
+          "y": -32.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.4,
+          "y": 1.4
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 12,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "wireframe_opacity": 0.25,
+          "show_label": false
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.LegacyHealthDisplay, osu.Game, Version=2024.412.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": -20.0
+        },
+        "Rotation": -90.0,
+        "Scale": {
+          "x": 0.7,
+          "y": 0.7
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 9,
+        "UsesFixedAnchor": false,
+        "Settings": {},
+        "Children": []
+      }
+    ]
+  }
+}

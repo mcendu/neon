@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="152"
+   height="136"
+   viewBox="0 0 152 136"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="mania-lazer-counter-pp.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1"
+     inkscape:cx="43.5"
+     inkscape:cy="-194.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter22"
+       x="-0.10392157"
+       y="-0.1096391"
+       width="1.2078431"
+       height="1.2306989">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.878431"
+         flood-color="rgb(189,154,0)"
+         id="feFlood20" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="4.000000"
+         id="feGaussianBlur20" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="0.000000"
+         id="feOffset20" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite21" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite22" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-632)">
+    <g
+       id="g26"
+       style="filter:url(#filter22)"
+       transform="translate(0,-256)">
+      <path
+         style="fill:none;stroke:#f4d175;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 26,996 64,-64 h 38"
+         id="path20"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Roboto Flex';-inkscape-font-specification:'Roboto Flex';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:tabular-nums;font-variant-east-asian:normal;fill:#a00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="128"
+         y="820"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="128"
+           y="820" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=400';font-variant-ligatures:normal;font-variant-caps:all-small-caps;font-variant-numeric:tabular-nums;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:end;text-anchor:end;fill:#f1ce71;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="128"
+         y="922"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="128"
+           y="922">pp</tspan></text>
+    </g>
+  </g>
+</svg>

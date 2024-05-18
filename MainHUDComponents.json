@@ -1,0 +1,45 @@
+{
+  "DrawableInfo": {
+    "global": [
+      {
+        "Type": "osu.Game.Screens.Play.HUD.ArgonSongProgress, osu.Game, Version=2024.412.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 10.0,
+          "y": 0.0
+        },
+        "Rotation": 90.0,
+        "Scale": {
+          "x": 0.4,
+          "y": 1.0
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 10,
+        "Origin": 20,
+        "UsesFixedAnchor": false,
+        "Settings": {},
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Screens.Play.ArgonKeyCounterDisplay, osu.Game, Version=2024.412.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -10.0,
+          "y": 10.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 33,
+        "Origin": 33,
+        "UsesFixedAnchor": false,
+        "Settings": {},
+        "Children": []
+      }
+    ],
+    "mania": []
+  }
+}
