@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="2.8284271"
-     inkscape:cx="61.695067"
+     inkscape:cx="61.518291"
      inkscape:cy="14.318912"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -341,7 +341,7 @@
     </filter>
   </defs>
   <rect
-     style="fill:#767676;fill-opacity:1;stroke:#92d1d6;stroke-width:8;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     style="fill:#b4ecf1;fill-opacity:1;stroke:#60d7e0;stroke-width:8;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="rect1"
      width="78"
      height="52"
@@ -349,7 +349,7 @@
      y="4"
      rx="4" />
   <rect
-     style="fill:#52bac1;fill-opacity:1;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     style="fill:#00a0a8;fill-opacity:1;stroke:#00bec7;stroke-width:6;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="rect2"
      width="32"
      height="14"
