@@ -139,7 +139,7 @@
         "Type": "osu.Game.Skinning.LegacyHealthDisplay, osu.Game, Version=2024.412.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
-          "y": -20.0
+          "y": -25.0
         },
         "Rotation": -90.0,
         "Scale": {
